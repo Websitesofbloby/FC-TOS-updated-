@@ -14,3 +14,4 @@
     https://discord.gg/5rtKwXQv5T
     https://discord.gg/W8ndYagdht
     https://discord.gg/jEdfmYVG
+7: to make a new sever that has rule 6 applied, user <@1012343443378405427> must be alerted and pigned before it is appleid and checked so it can be added, if it is not added refresh in a minute, if it still isnt added you will get pinged soon alerting your sever didnt approve
